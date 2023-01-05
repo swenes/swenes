@@ -1,4 +1,5 @@
 # 💫 About Me:
+🧒 I’m a 3rd year software engineering student. I live in Turkey.<br>
 🔭 I’m currently working on Flutter/Dart.<br>🌱 I’m currently learning Kotlin.<br>💬 You can reach me on: www.linkedin.com/in/swenes<br>
 
 
