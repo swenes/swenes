@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧒 I’m a 4rd year software engineering student at Firat University.<br>
+🧒 I am a fresh graduated Software Engineer.<br>
 🔭 I’m currently working on Flutter/Dart.<br>🌱 I’m currently learning QA Engineering.<br>💬 You can reach me on: www.linkedin.com/in/aydgd41<br> 
 🧒 You can reach my website here: https://flutter-web2-14d14.web.app/<br>
 🔭 You can reach my medium profile: https://medium.com/@1aydogduenes<br>
