@@ -1,9 +1,10 @@
 # 💫 About Me:
-🧒 I am a fresh graduated Software Engineer.<br>
-🔭 I’m currently working on QA Engineering.<br>🌱 I’m a Flutter Developer / Mobile Application Developer<br>
-💬 You can reach me on: www.linkedin.com/in/aydgd41<br> 
-🧒 You can reach my website here: https://flutter-web2-14d14.web.app/<br>
-🔭 You can reach my medium profile: https://medium.com/@1aydogduenes<br>
+🧒 I am a software engineer who graduated from Fırat University, Faculty of Technology, Department of Software Engineering.<br>
+🔭 I’m currently working on QA Engineering.<br>
+🌱 I’m a Flutter Developer / Mobile Application Developer<br>
+ • You can reach me LinkedIn Profile: www.linkedin.com/in/aydgd41<br> 
+ • You can reach my Website here: https://flutter-web2-14d14.web.app/<br> 
+ • You can reach my Medium Profile: https://medium.com/@1aydogduenes<br>
 
 
 
